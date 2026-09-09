@@ -1,4 +1,5 @@
 # fuzzy-octo-robot
 To-do
-- [ ] Clone the repository
-- [ ] Create a pull request
+- [x] Clone the repository
+- [x] Create a pull request
+- [ ] Get a pull request approved
